@@ -1,0 +1,10 @@
+model_config:
+  provider: "oss20b"
+  gemini_flash: "gemini-2.5-flash"
+  oss20b: "openai/gpt-oss-20b"
+  oss120b: "openai/gpt-oss-120b"
+  deepseek: "deepseek-r1-distill-llama-70b"
+  llama: "llama-3.3-70b-versatile"
+  gpt5: "openai/gpt5"
+  gpt4o: "openai/gpt-4o"
+  

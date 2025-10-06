@@ -22,3 +22,10 @@ matplotlib
 seaborn
 wordcloud
 plotly
+
+# Web framework (for FastAPI components in ADK)
+google-adk>=1.3.0
+fastapi>=0.100.0
+uvicorn>=0.22.0
+litellm>=1.75.5
+anthropic>=0.69.0
